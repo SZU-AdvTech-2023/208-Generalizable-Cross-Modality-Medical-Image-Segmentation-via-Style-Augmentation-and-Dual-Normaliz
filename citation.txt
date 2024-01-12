@@ -1,0 +1,7 @@
+@inproceedings{REPO208,
+    author = "Zhou, Ziqi and Qi, Lei and Yang, Xin and Ni, Dong and Shi, Yinghuan",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "20856--20865",
+    title = "{Generalizable Cross-Modality Medical Image Segmentation via Style Augmentation and Dual Normalization}",
+    year = "2022"
+}
